@@ -88,3 +88,16 @@ li span{
 #completeButton{
     margin-top: 100px;
 }
+
+
+
+@media only screen and (max-width:768px){
+    body{
+        height: 100vh;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+    
+}
